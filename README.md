@@ -4,9 +4,9 @@ Umas lista simples onde é possível incluir uma tarefa, visualizar suas observa
 O software faz uma chamada ao endpoint da API https://jsonplaceholder.cypress.io/todos?_limit=10
 
 # Tecnologia utilizadas
- ### React Js
- ### Axios
- ### React Router Dom
+ - React Js;
+ - Axios;
+ - React Router Dom.
  
 
 
