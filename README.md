@@ -8,7 +8,7 @@ O software faz uma chamada ao endpoint da API https://jsonplaceholder.cypress.io
  - Axios;
  - React Router Dom.
  
- ![PlantManager](./.github/PlantManager.png)
+ ![Project](./project.png)
 
 
 
